@@ -1,7 +1,8 @@
 # AZ-900 Learning Notes
 
-Concepts
+## Topics
 
-Definitions
-
-Short explanations in your own words
+- Cloud concepts
+- Core Azure services
+- Security and governance
+- Pricing and support
