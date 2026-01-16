@@ -9,7 +9,7 @@ Tracking my AZ-900 foundations, Azure labs, and AZ-104 admin skills with write-u
 
 ## ProgresS
 ### AZ-900
-- [1 ] Cloud concepts
+- [x] Cloud concepts
 - [ ] Core Azure services
 - [ ] Security & governance basics
 - [ ] Pricing & support
