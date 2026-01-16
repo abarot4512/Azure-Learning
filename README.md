@@ -20,13 +20,12 @@ Tracking my AZ-900 foundations, Azure labs, and AZ-104 admin skills with write-u
 - [ ] Lab 002 - Cost Budget
 - [ ] Lab 003 - Storage Account + Blob upload
 
-### Roadmap
+## Roadmap 🗺️ Cloud Engineer Roadmap (0 → 24 Months)
 
-🗺️ Cloud Engineer Roadmap (0 → 24 Months)
+###
 🟢 Phase 1: Foundation + Role Transition (0–3 months)
 🎯 Goal
 
-Get out of “service desk only” mode
 
 Build cloud language + confidence
 
